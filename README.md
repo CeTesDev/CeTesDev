@@ -18,7 +18,7 @@ Github is my only social media.
 
 ### Contact 💖
 
-| [Linktree](https://linktr.ee/talentdevelopment) | [Linkedin](https://www.linkedin.com/in/kan-smith-747b461b1/) | [Website](https://talentdevelopment.dev/) | [Calendly](https://calendly.com/kan-talentdevelopment/meet) |
+| [Linktree](https://linktr.ee/talentdevelopment) | [Linkedin](https://www.linkedin.com/in/kan-smith-747b461b1/) | [Website](https://talentdevelopment.dev/) | [Calendly](https://calendly.com/kan-talentdevelopment/meet-kan-solidity-developer) |
 |--------------------------------------|------------------------------------------------------|--------------------------------|---------------------------------------------------|
 
 <!--
