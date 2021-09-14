@@ -14,7 +14,7 @@ Github is my only social media.
 
 ### Skill ⚡
 
-`Solidity` `ASM` `React.js` `TypeScript` `Swift`
+`Solidity` `ASM` `c/c++` `OpenGL/WebGL` `React.js` `TypeScript`
 
 ### Contact 💖
 
