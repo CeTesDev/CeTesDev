@@ -18,7 +18,7 @@ Github is my only social media.
 
 ### Contact 💖
 
-| [Linktree](https://linktr.ee/kantalentdevelopment) | [Linkedin](https://www.linkedin.com/in/kan-jiang/) | [Website](https://talentdevelopment.dev/) | [Calendly](https://calendly.com/kan-talentdevelopment/meet-kan-solidity-developer) |
+| [Linktree](https://linktr.ee/kantalentdevelopment) | [Linkedin](https://www.linkedin.com/in/kan-jiang/) | [Website](https://kanjiangVest.dev/) | [Calendly](https://calendly.com/kan-talentdevelopment/meet-kan-solidity-developer) |
 |--------------------------------------|------------------------------------------------------|--------------------------------|---------------------------------------------------|
 
 <!--
