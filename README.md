@@ -10,7 +10,7 @@ If you `code` every day as if it was your last, some day you'll most certainly b
 Github is my only social media.
 ```
 
-[![Kan's Activity](https://github-readme-stats.vercel.app/api?username=TalentDevelopment&theme=graywhite)](https://github.com/TalentDevelopment/github-readme-stats)
+[![Kan's Activity](https://github-readme-stats.vercel.app/api?username=KanJiangVest&theme=graywhite)](https://github.com/KanJiangVest/github-readme-stats)
 
 ### Skill ⚡
 
@@ -18,7 +18,7 @@ Github is my only social media.
 
 ### Contact 💖
 
-| [Linktree](https://linktr.ee/kantalentdevelopment) | [Linkedin](https://www.linkedin.com/in/kan-smith-747b461b1/) | [Website](https://talentdevelopment.dev/) | [Calendly](https://calendly.com/kan-talentdevelopment/meet-kan-solidity-developer) |
+| [Linktree](https://linktr.ee/kantalentdevelopment) | [Linkedin](https://www.linkedin.com/in/kan-jiang/) | [Website](https://talentdevelopment.dev/) | [Calendly](https://calendly.com/kan-talentdevelopment/meet-kan-solidity-developer) |
 |--------------------------------------|------------------------------------------------------|--------------------------------|---------------------------------------------------|
 
 <!--
