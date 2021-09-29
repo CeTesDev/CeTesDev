@@ -9,13 +9,21 @@
   <a href="https://www.linkedin.com/in/kan-jiang/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Kan-blue?logo=linkedin&logoColor=blue&color=blue" />
   </a>
+  
+   <a href="https://gosfa.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-GOSFA-blue?logo=googledomains&logoColor=blue&color=blue" />
+  </a>
+  
+   <a href="https://dev.to/GOSFA" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Dev.To-GOSFA-blue?logo=dev.to&logoColor=blue&color=blue" />
+  </a>
 
   <a href="mailto:kanjiangvest@protonmail.com.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Kan-red?logo=gmail&logoColor=red&color=red" />
   </a>
 
   <a href="https://www.youtube.com/channel/aaa" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-Kan-red?logo=youtube&logoColor=red&color=red" />
+    <img src="https://img.shields.io/badge/YouTube-GOSFA-red?logo=youtube&logoColor=red&color=red" />
   </a>
 </p>
 
@@ -164,11 +172,3 @@ These are two other projects that I maintain outside the Minetest Mods organizat
 I update these mods frequently to fix bugs and use the latest functions of the API, making sure\
 it works with the latest [Minetest](https://www.minetest.net) version.
 
-
-## Contact
-
-Want to know more, discuss, or talk about something?
-
-- 📧 E-mail: kanjiangvest@protonmail.com
-- 💬 Element/Matrix: [Kan](https://matrix.to/#/@kan:matrix.org)
-- 🗨 Discord: Kan#3723
