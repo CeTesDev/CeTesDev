@@ -83,7 +83,12 @@ As a solidity and smart contract developer, my main focus are **Gas Optimization
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cornernote&repo=minetest-skyblock&show_owner=true&theme=algolia"/>
 </a>
 
+
+## Skills 
+
 ## Programming
+
+### [Solidity](https://isocpp.org/)
 
 ### [C++](https://isocpp.org/)
 
