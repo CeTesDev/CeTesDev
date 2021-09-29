@@ -83,15 +83,24 @@ As a solidity and smart contract developer, my main focus are **Gas Optimization
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cornernote&repo=minetest-skyblock&show_owner=true&theme=algolia"/>
 </a>
 
-
-## Skills ⛏
-Solidity, C/C++, JavaScript, C#
-
 ## Programming
 
 ### [BlockChain](https://isocpp.org/)
 
+#### Experience
+Smart Contract, DeFi
+
+#### Language & Tools ⛏
+Solidity, YUL, JavaScript
+
 ### [Computer Graphics](https://isocpp.org/)
+
+#### Experience
+Smart Contract, DeFi
+
+#### Language & Tools ⛏
+Solidity, YUL, JavaScript
+
 
 I have made many [C++](https://isocpp.org/) algorithms such as:
 
