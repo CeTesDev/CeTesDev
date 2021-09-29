@@ -84,13 +84,14 @@ As a solidity and smart contract developer, my main focus are **Gas Optimization
 </a>
 
 
-## Skills 
+## Skills ⛏
+Solidity, C/C++, JavaScript, C#
 
 ## Programming
 
-### [Solidity](https://isocpp.org/)
+### [BlockChain](https://isocpp.org/)
 
-### [C++](https://isocpp.org/)
+### [Computer Graphics](https://isocpp.org/)
 
 I have made many [C++](https://isocpp.org/) algorithms such as:
 
@@ -125,7 +126,7 @@ I have fixed various issues and have improved some algorithms. I'm also a mainta
 I'm one of the people who most contributed ([6th](https://github.com/TheAlgorithms/C-Plus-Plus/graphs/contributors) place).\
 I'm always searching for new issues and improving algorithms to follow guidelines.
 
-### [Lua](https://www.lua.org)
+### [Computer Vision](https://isocpp.org/)
 
 #### [Minetest](https://www.minetest.net) modder/player
 
