@@ -47,7 +47,7 @@ I am a programmer and researcher.
 
 I was a Computer Graphics and Comuter Vision developer before, and recently for 3 years I widely create Smart Contracts with [Solidity](https://docs.soliditylang.org/en/latest/) and [Assembly](https://docs.soliditylang.org/en/latest/yul.html) languages.
 
-As a solidity, smart contract developer, my main focus are **Gas Optimization** and **Security**, and **Fastest Algorithm**.
+As a solidity and smart contract developer, my main focus are **Gas Optimization** and **Security**, and **Fastest Algorithm**.
 
 ![Kan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanJiangVest&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
 
