@@ -78,7 +78,7 @@ As a solidity and smart contract developer, my main focus are **Gas Optimization
 
 ## Programming
 
-### [BlockChain](https://isocpp.org/)
+### [BlockChain](https://isocpp.org/) 👩‍👩‍👧‍👧
 
 #### Experience ⚡️
 Smart Contract, DeFi
