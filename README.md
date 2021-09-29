@@ -63,6 +63,7 @@ Real-time Rendering, Game Development, PointCloud Processing, VR/AR
 C/C++, Qt, OpenGL, DirectX, Unity, C#, WebGL, GLSL
 
 #### Examples of Working 
+![VR Car](https://user-images.githubusercontent.com/46571905/135361085-b47c2305-2cd2-4d71-8ab4-c3fa2882ed9d.png)
 
 ### [Computer Vision](https://isocpp.org/)
 
@@ -76,18 +77,12 @@ C/C++, Qt, OpeCV, ML
 
 ### [Algorithms](https://isocpp.org/)
 
-I have made many [C++](https://isocpp.org/) algorithms such as:
+I have made many algorithms such as:
 
-- Lists
-- Tails
-- Stacks
-- Searching
-- Mathematics
-- Sorting
-- Trees
+- Counting Digits
+- Print Primes
 - And much more...
 
-I've made other [C++](https://isocpp.org/) programs, such as calculators, employees, and more.\
 They are just for fun, to learn, and to practice. 🙂
 
 <a href="https://github.com/minetest-mods/vehicle_mash">
