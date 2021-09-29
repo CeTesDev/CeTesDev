@@ -90,36 +90,39 @@ I have made many [C++](https://isocpp.org/) algorithms such as:
 I've made other [C++](https://isocpp.org/) programs, such as calculators, employees, and more.\
 They are just for fun, to learn, and to practice. 🙂
 
-<a href="https://github.com/minetest-mods/vehicle_mash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minetest-mods&repo=vehicle_mash&show_owner=true&theme=algolia"/>
-</a>
+<div height = "100px">
+  <a href="https://github.com/minetest-mods/vehicle_mash">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minetest-mods&repo=vehicle_mash&show_owner=true&theme=algolia"/>
+  </a>
 
-<a href="https://github.com/minetest-mods/lib_mount">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minetest-mods&repo=lib_mount&show_owner=true&theme=algolia"/>
-</a>
+  <a href="https://github.com/minetest-mods/lib_mount">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minetest-mods&repo=lib_mount&show_owner=true&theme=algolia"/>
+  </a>
 
-<a href="https://github.com/MT-CTF/capturetheflag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MT-CTF&repo=capturetheflag&show_owner=true&theme=algolia"/>
-</a>
+  <a href="https://github.com/MT-CTF/capturetheflag">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MT-CTF&repo=capturetheflag&show_owner=true&theme=algolia"/>
+  </a>
 
-<a href="https://github.com/minetest-mods/minetest-mods.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minetest-mods&repo=minetest-mods.github.io&show_owner=true&theme=algolia"/>
-</a>
+  <a href="https://github.com/minetest-mods/minetest-mods.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minetest-mods&repo=minetest-mods.github.io&show_owner=true&theme=algolia"/>
+  </a>
 
-<a href="https://github.com/MinetestForFun/server-minetestforfun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinetestForFun&repo=server-minetestforfun&show_owner=true&theme=algolia"/>
-</a>
+  <a href="https://github.com/MinetestForFun/server-minetestforfun">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinetestForFun&repo=server-minetestforfun&show_owner=true&theme=algolia"/>
+  </a>
 
-<a href="https://github.com/shivajiva101/minetest-gamehub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivajiva101&repo=minetest-gamehub&show_owner=true&theme=algolia"/>
-</a>
+  <a href="https://github.com/shivajiva101/minetest-gamehub">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivajiva101&repo=minetest-gamehub&show_owner=true&theme=algolia"/>
+  </a>
 
-<a href="https://github.com/minetest-mods/teleport-request">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minetest-mods&repo=teleport-request&show_owner=true&theme=algolia"/>
-</a>
+  <a href="https://github.com/minetest-mods/teleport-request">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minetest-mods&repo=teleport-request&show_owner=true&theme=algolia"/>
+  </a>
 
-<a href="https://github.com/cornernote/minetest-skyblock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cornernote&repo=minetest-skyblock&show_owner=true&theme=algolia"/>
-</a>
+  <a href="https://github.com/cornernote/minetest-skyblock">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cornernote&repo=minetest-skyblock&show_owner=true&theme=algolia"/>
+  </a>
+</div>
+
 
 
