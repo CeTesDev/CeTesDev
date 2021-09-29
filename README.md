@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Kan's+GitHub+Profile!)](https://git.io/typing-svg)
 # Hi, I'm Kan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KanJiangVest&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GOSFA&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
@@ -42,7 +42,7 @@ I was a Computer Graphics and Comuter Vision developer before, and recently for 
 
 As a solidity and smart contract developer, my main focus are **Gas Optimization** and **Security**, and **Fastest Algorithm**.
 
-![Kan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanJiangVest&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
+![Kan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GOSFA&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
 
 <a href="https://github.com/minetest-mods/vehicle_mash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minetest-mods&repo=vehicle_mash&show_owner=true&theme=algolia"/>
