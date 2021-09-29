@@ -6,31 +6,16 @@
 <br/>
 
 <p align="center">
-
-  <a href="https://twitter.com/KanJiangVest" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-Kan%20Leal-blue?logo=twitter&logoColor=blue&color=blue" />
- </a>
-
-  <a href="https://gitlab.com/KanJiangVest" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitLab-Kan-orange?logo=gitlab&logoColor=orange&color=orange" />
+  <a href="https://www.linkedin.com/in/kan-jiang/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Kan-blue?logo=linkedin&logoColor=blue&color=blue" />
   </a>
 
-  <a href="https://www.youtube.com/channel/UCcZmWPJygsJ_szWKwTy2wqA" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-Kan%20Leal-yellow?logo=youtube&logoColor=red&color=yellow" />
+  <a href="mailto:kanjiangvest@protonmail.com.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-Kan-red?logo=gmail&logoColor=red&color=red" />
   </a>
 
-  <br />
-
-  <a href="https://www.reddit.com/user/Kan" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Subreddit-Kan-red?logo=reddit&logoColor=red&color=red" />
-  </a>
-
-  <a href="https://dev.to/Kan" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/DEV.TO-Kan-black?logo=dev.to&logoColor=white&color=black" />
-  </a>
-
-  <a href="https://stackoverflow.com/users/14539444/Kan-leal" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/StackOverflow-Kan%20Leal-orange?logo=stackoverflow&logoColor=orange&color=purple" />
+  <a href="https://www.youtube.com/channel/aaa" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-Kan-red?logo=youtube&logoColor=red&color=red" />
   </a>
 </p>
 
@@ -87,7 +72,7 @@ As a solidity and smart contract developer, my main focus are **Gas Optimization
 
 ### [BlockChain](https://isocpp.org/)
 
-#### Experience
+#### Experience ⚡️
 Smart Contract, DeFi
 
 #### Language & Tools ⛏
@@ -95,12 +80,25 @@ Solidity, YUL, JavaScript
 
 ### [Computer Graphics](https://isocpp.org/)
 
-#### Experience
-Smart Contract, DeFi
+#### Experience ⚡️
+Real-time Rendering, Game Development, PointCloud Processing, VR/AR
 
 #### Language & Tools ⛏
-Solidity, YUL, JavaScript
+C/C++, Qt, OpenGL, DirectX, Unity, C#, WebGL, GLSL
 
+#### Examples of Working 
+
+### [Computer Vision](https://isocpp.org/)
+
+#### Experience ⚡️
+Image Processing, Image Stitching, Object Detection
+
+#### Language & Tools ⛏
+C/C++, Qt, OpeCV, ML
+
+#### Examples of Working 
+
+### [Algorithms](https://isocpp.org/)
 
 I have made many [C++](https://isocpp.org/) algorithms such as:
 
@@ -135,15 +133,6 @@ I have fixed various issues and have improved some algorithms. I'm also a mainta
 I'm one of the people who most contributed ([6th](https://github.com/TheAlgorithms/C-Plus-Plus/graphs/contributors) place).\
 I'm always searching for new issues and improving algorithms to follow guidelines.
 
-### [Computer Vision](https://isocpp.org/)
-
-#### [Minetest](https://www.minetest.net) modder/player
-
-[Minetest](https://www.minetest.net) is an open-source voxel game engine written in C/C++ and Lua.\
-I have made 2 Lua open source mods for the voxel game engine [Minetest](https://www.minetest.net):
-
-- [Cloud Items](https://github.com/minetest-mods/cloud_items)
-- [Enhanced Builtin Commands](https://github.com/minetest-mods/enhanced_builtin_commands)
 
 ##### Contributed projects
 
@@ -175,20 +164,11 @@ These are two other projects that I maintain outside the Minetest Mods organizat
 I update these mods frequently to fix bugs and use the latest functions of the API, making sure\
 it works with the latest [Minetest](https://www.minetest.net) version.
 
-##### Where you can find me on
-
-You can find me on the [CTF](https://ctf.rubenwardy.com/) server by [rubenwardy](https://github.com/rubenwardy).
-
-_Use swords, guns, and grenades to combat\
-the enemy and capture their flag before they capture yours._
-
-- [GitHub](https://github.com/MT-CTF) organization
-- Official [website](https://ctf.rubenwardy.com)
 
 ## Contact
 
 Want to know more, discuss, or talk about something?
 
-- 📧 E-mail: halfpacho@gmail.com
-- 💬 Element/Matrix: [Panquesito7](https://matrix.to/#/@panquesito7:matrix.org)
-- 🗨 Discord: Panquesito7#3723
+- 📧 E-mail: kanjiangvest@protonmail.com
+- 💬 Element/Matrix: [Kan](https://matrix.to/#/@kan:matrix.org)
+- 🗨 Discord: Kan#3723
