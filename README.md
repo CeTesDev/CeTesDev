@@ -54,7 +54,7 @@ Smart Contract, DeFi
 #### Language & Tools ⛏
 Solidity, YUL, JavaScript
 
-### [Computer Graphics](https://isocpp.org/)
+### [Computer Graphics](https://www.britannica.com/topic/computer-graphics/Shading-and-texturing)
 
 #### Experience ⚡️
 Real-time Rendering, Game Development, PointCloud Processing, VR/AR
@@ -65,7 +65,7 @@ C/C++, Qt, OpenGL, DirectX, Unity, C#, WebGL, GLSL
 #### Examples of Working 
 ![VR Car](https://user-images.githubusercontent.com/46571905/135361085-b47c2305-2cd2-4d71-8ab4-c3fa2882ed9d.png)
 
-### [Computer Vision](https://isocpp.org/)
+### [Computer Vision](https://www.sas.com/en_us/insights/analytics/computer-vision.html)
 
 #### Experience ⚡️
 Image Processing, Image Stitching, Object Detection
