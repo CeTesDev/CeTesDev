@@ -75,7 +75,7 @@ C/C++, Qt, OpeCV, ML
 
 #### Examples of Working 
 
-### [Algorithms](https://isocpp.org/)
+### [Algorithms](https://junilearning.com/blog/guide/what-are-algorithms/)
 
 I have made many algorithms such as:
 
