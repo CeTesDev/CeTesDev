@@ -6,7 +6,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kan-jiang/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/cetesdev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Kan-blue?logo=linkedin&logoColor=blue&color=blue" />
   </a>
   
