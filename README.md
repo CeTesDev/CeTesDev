@@ -17,10 +17,6 @@
   <a href="mailto:kan@cetes.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-CeTesDev-red?logo=gmail&logoColor=red&color=red" />
   </a>
-
-  <a href="https://www.youtube.com/channel/aaa" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-CeTesDev-red?logo=youtube&logoColor=red&color=red" />
-  </a>
 </p>
 
 ## My Summary
