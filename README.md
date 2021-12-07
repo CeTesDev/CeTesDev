@@ -41,10 +41,10 @@ As a solidity and smart contract developer, my main focus are **Gas Optimization
 ### BlockChain 👩‍👩‍👧‍👧
 
 #### Experience ⚡️
-Smart Contract, DeFi
+Smart Contract, DeFi, NFT/FT, EVM/AVM
 
 #### Language & Tools ⛏
-Solidity, YUL, JavaScript
+Solidity, YUL, Teal, JavaScript
 
 ### Computer Graphics
 
